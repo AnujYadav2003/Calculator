@@ -1,0 +1,32 @@
+body{
+    background-image: url(math2.png);
+    background-size: cover;
+}
+header{
+   text-align: center;
+}
+table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+td{
+    border: 1px solid black;
+    cursor: pointer;
+    background-color:rgb(235, 227, 227);
+    padding: 1.2rem;
+}
+
+.AC{
+    background-color: red;
+}
+.equal{
+    background-color: rgb(145, 208, 250);
+}
+#inputDisplay{
+   width: 100%;
+   padding:1rem 0 1rem 0;
+}
+.previous{
+    background-color: rgb(138, 224, 138);
+}
